@@ -18,8 +18,8 @@ const Home = () => {
               <Grid size={{ xs: 4 }}>6</Grid>
               <Grid size={{ xs: 4 }}>7</Grid>
               <Grid size={{ xs: 4 }}>8</Grid>
-              <Grid size={{ xs: 4 }}>9</Grid>
-            </Grid> */}
+              <Grid size={{ xs: 4 }}>9</Grid>*/}
+            </Grid> 
           </Grid>
           <Grid size={{ md: 3 }}></Grid>
         </Grid>
